@@ -1,0 +1,6 @@
+E:\VS Workspace\编程内功修炼\活动选择问题 - 动态规划思路（自底向上）\bin\Debug\活动选择问题 - 动态规划思路（自底向上）.exe.config
+E:\VS Workspace\编程内功修炼\活动选择问题 - 动态规划思路（自底向上）\bin\Debug\活动选择问题 - 动态规划思路（自底向上）.exe
+E:\VS Workspace\编程内功修炼\活动选择问题 - 动态规划思路（自底向上）\bin\Debug\活动选择问题 - 动态规划思路（自底向上）.pdb
+E:\VS Workspace\编程内功修炼\活动选择问题 - 动态规划思路（自底向上）\obj\Debug\活动选择问题 - 动态规划思路（自底向上）.csprojResolveAssemblyReference.cache
+E:\VS Workspace\编程内功修炼\活动选择问题 - 动态规划思路（自底向上）\obj\Debug\活动选择问题 - 动态规划思路（自底向上）.exe
+E:\VS Workspace\编程内功修炼\活动选择问题 - 动态规划思路（自底向上）\obj\Debug\活动选择问题 - 动态规划思路（自底向上）.pdb

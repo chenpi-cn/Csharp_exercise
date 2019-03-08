@@ -1,0 +1,6 @@
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 自底向上法（动态规划）\bin\Debug\钢条切割问题 - 自底向上法（动态规划）.exe.config
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 自底向上法（动态规划）\bin\Debug\钢条切割问题 - 自底向上法（动态规划）.exe
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 自底向上法（动态规划）\bin\Debug\钢条切割问题 - 自底向上法（动态规划）.pdb
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 自底向上法（动态规划）\obj\Debug\钢条切割问题 - 自底向上法（动态规划）.csprojResolveAssemblyReference.cache
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 自底向上法（动态规划）\obj\Debug\钢条切割问题 - 自底向上法（动态规划）.exe
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 自底向上法（动态规划）\obj\Debug\钢条切割问题 - 自底向上法（动态规划）.pdb

@@ -1,0 +1,6 @@
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 递归实现\bin\Debug\钢条切割问题 - 递归实现.exe.config
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 递归实现\bin\Debug\钢条切割问题 - 递归实现.exe
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 递归实现\bin\Debug\钢条切割问题 - 递归实现.pdb
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 递归实现\obj\Debug\钢条切割问题 - 递归实现.csprojResolveAssemblyReference.cache
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 递归实现\obj\Debug\钢条切割问题 - 递归实现.exe
+E:\VS Workspace\编程内功修炼\钢条切割问题 - 递归实现\obj\Debug\钢条切割问题 - 递归实现.pdb
